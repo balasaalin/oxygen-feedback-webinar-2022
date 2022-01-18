@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_d5p_h3b_fg">
+  <title>Brief specifications</title>
+  <body>
+    <dl>
+      <dlentry id="display">
+        <dt>Display</dt>
+        
+        <dd>2.40” screen, 480 x 360 resolution</dd>
+      </dlentry>
+    </dl>
+    <dl>
+      <dlentry id="dimensions">
+        <dt>Dimensions</dt>
+        <dd>
+          <table frame="all" rowsep="1" colsep="1" id="table_rmd_qbg_hsb">
+            <tgroup cols="5" align="left">
+              <colspec colname="c1" colnum="1" colwidth="1*"/>
+              <colspec colname="c2" colnum="2" colwidth="1*"/>
+              <colspec colname="c3" colnum="3" colwidth="1*"/>
+              <colspec colname="c4" colnum="4" colwidth="1*"/>
+              <colspec colname="c5" colnum="5" colwidth="1*"/>
+              <thead>
+                <row>
+                  <entry>Height</entry>
+                  <entry>Width</entry>
+                  <entry>Thicness</entry>
+                  <entry>Weight</entry>
+                  <entry>Volume</entry>
+                </row>
+              </thead>
+              <tbody>
+                <row>
+                  <entry>112.5 mm</entry>
+                  <entry>61.2 mm</entry>
+                  <entry>14 mm</entry>
+                  <entry>120 g</entry>
+                  <entry>68 cc</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <!--<dlentry><dt>Height</dt><dd/><dd><ph>112.5 mm</ph></dd></dlentry><dlentry><dt>Width</dt><dd/><dd><ph>61.2 mm</ph></dd></dlentry><dlentry><dt>Thickness</dt><dd/><dd><ph>14 mm</ph></dd></dlentry><dlentry><dt>Weight</dt><dd/><dd><ph>120 g</ph></dd></dlentry><dlentry><dt>Volume</dt><dd/><dd><ph>68 cc</ph></dd></dlentry>-->
+        </dd>
+      </dlentry>
+      <dlentry id="battery">
+        <dt>Battery life</dt>
+        
+        <dd>About 5.5h talk time and 488h stand by time</dd>
+      </dlentry>
+      <dlentry id="camera">
+        <dt>Camera</dt>
+        
+        <dd>5MP, 2x digital zoom</dd>
+      </dlentry>
+      <dlentry id="memory">
+        <dt>Memory</dt>
+        <dd>SDRAM Memory 32MB</dd>
+      </dlentry>
+      <dlentry id="bluetooth">
+        <dt>Bluetooth</dt>
+        
+        <dd>3.0</dd>
+      </dlentry>
+    </dl>
+  </body>
+</topic>
