@@ -6,7 +6,7 @@
     <dl>
       <dlentry id="display">
         <dt>Display</dt>
-        <dd product="X1000">2.10” screen, 320 x 240 resolution </dd>
+        
         <dd product="X2000">2.40” screen, 480 x 360 resolution</dd>
       </dlentry>
     </dl>
@@ -17,27 +17,27 @@
           <dl>
             <dlentry>
               <dt>Height</dt>
-              <dd><ph product="X1000">110 mm</ph></dd>
+              <dd></dd>
               <dd><ph product="X2000">112.5 mm</ph></dd>
             </dlentry>
             <dlentry>
               <dt>Width</dt>
-              <dd><ph product="X1000">56.9 mm</ph></dd>
+              <dd></dd>
               <dd><ph product="X2000">61.2 mm</ph></dd>
             </dlentry>
             <dlentry>
               <dt>Thickness</dt>
-              <dd><ph product="X1000">11.7 mm</ph></dd>
+              <dd></dd>
               <dd><ph product="X2000">14 mm</ph></dd>
             </dlentry>
             <dlentry>
               <dt>Weight</dt>
-              <dd><ph product="X1000">112 g</ph></dd>
+              <dd></dd>
               <dd><ph product="X2000">120 g</ph></dd>
             </dlentry>
             <dlentry>
               <dt>Volume</dt>
-              <dd><ph product="X1000">74 cc</ph></dd>
+              <dd></dd>
               <dd><ph product="X2000">68 cc</ph></dd>
             </dlentry>
           </dl>
@@ -45,12 +45,12 @@
       </dlentry>
       <dlentry id="battery">
         <dt>Battery life</dt>
-        <dd product="X1000">About 5h talk time and 488h stand by time</dd>
+        
         <dd product="X2000">About 5.5h talk time and 488h stand by time</dd>
       </dlentry>
       <dlentry id="camera">
         <dt>Camera</dt>
-        <dd product="X1000">4MP, 2x digital zoom</dd>
+        
         <dd product="X2000">5MP, 2x digital zoom</dd>
       </dlentry>
       <dlentry id="memory">
@@ -59,7 +59,7 @@
       </dlentry>
       <dlentry id="bluetooth">
         <dt>Bluetooth</dt>
-        <dd product="X1000">N/A</dd>
+        
         <dd product="X2000">3.0</dd>
       </dlentry>
     </dl>
