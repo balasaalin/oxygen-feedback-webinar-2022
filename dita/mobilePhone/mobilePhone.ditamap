@@ -3,7 +3,6 @@
 <map collection-type="sequence">
   <title>Syncro Phone User Guide</title>
   <topicref href="topics/gettingStarted.dita" collection-type="sequence">
-    <topicref href="topics/introduction.dita"/>
     <topicref href="topics/Specifications.dita"/>
     <topicref href="tasks/insertBattery.dita"/>
     <topicref href="tasks/removingBattery.dita"/>

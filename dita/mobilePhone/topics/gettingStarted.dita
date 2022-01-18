@@ -3,5 +3,8 @@
 <topic id="getting_started">
   <title>Getting Started</title>
   <shortdesc>Technical details.</shortdesc>
-  <body/>
+  <body>
+    <p>Welcome to Syncro mobile phone user guide.</p>
+    <p>This user guide is focused on describing features and functionality of your mobile phone.</p>
+  </body>
 </topic>
