@@ -22,15 +22,14 @@
       <topicref href="tasks/composeSendEmail.dita"/>
       <topicref href="topics/deleteEmails.dita"/>
     </topicref>
-    <topicref href="concepts/Bluetooth.dita" product="X2000">
+    <topicref href="concepts/Bluetooth.dita">
       <topicref href="tasks/turnBluetoothOnOff.dita"/>
       <topicref href="tasks/sendFileBluetooth.dita"/>
       <topicref href="tasks/receiveFilesBluetooth.dita"/>
     </topicref>
   </topicref>
-  <topicref href="topics/serviceAndTroubleshooting.dita" audience="Technician">
+  <topicref href="topics/serviceAndTroubleshooting.dita">
     <topicref href="topics/repairingThePhone.dita"/>
     <topicref href="topics/runDiagnosticReport.dita"/>
   </topicref>
-  <!--<topicref href="productSbjSchemeVals.ditamap" format="ditamap" type="subjectScheme"/>-->
 </map>

@@ -7,7 +7,7 @@
       <dlentry id="display">
         <dt>Display</dt>
         
-        <dd product="X2000">2.40” screen, 480 x 360 resolution</dd>
+        <dd>2.40” screen, 480 x 360 resolution</dd>
       </dlentry>
     </dl>
     <dl>
@@ -18,27 +18,27 @@
             <dlentry>
               <dt>Height</dt>
               <dd></dd>
-              <dd><ph product="X2000">112.5 mm</ph></dd>
+              <dd><ph>112.5 mm</ph></dd>
             </dlentry>
             <dlentry>
               <dt>Width</dt>
               <dd></dd>
-              <dd><ph product="X2000">61.2 mm</ph></dd>
+              <dd><ph>61.2 mm</ph></dd>
             </dlentry>
             <dlentry>
               <dt>Thickness</dt>
               <dd></dd>
-              <dd><ph product="X2000">14 mm</ph></dd>
+              <dd><ph>14 mm</ph></dd>
             </dlentry>
             <dlentry>
               <dt>Weight</dt>
               <dd></dd>
-              <dd><ph product="X2000">120 g</ph></dd>
+              <dd><ph>120 g</ph></dd>
             </dlentry>
             <dlentry>
               <dt>Volume</dt>
               <dd></dd>
-              <dd><ph product="X2000">68 cc</ph></dd>
+              <dd><ph>68 cc</ph></dd>
             </dlentry>
           </dl>
         </dd>
@@ -46,12 +46,12 @@
       <dlentry id="battery">
         <dt>Battery life</dt>
         
-        <dd product="X2000">About 5.5h talk time and 488h stand by time</dd>
+        <dd>About 5.5h talk time and 488h stand by time</dd>
       </dlentry>
       <dlentry id="camera">
         <dt>Camera</dt>
         
-        <dd product="X2000">5MP, 2x digital zoom</dd>
+        <dd>5MP, 2x digital zoom</dd>
       </dlentry>
       <dlentry id="memory">
         <dt>Memory</dt>
@@ -60,7 +60,7 @@
       <dlentry id="bluetooth">
         <dt>Bluetooth</dt>
         
-        <dd product="X2000">3.0</dd>
+        <dd>3.0</dd>
       </dlentry>
     </dl>
   </body>
