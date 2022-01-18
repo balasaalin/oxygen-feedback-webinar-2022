@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<publishing-template>
+    <name>feedback-deploy</name>
+    <description></description>
+    <webhelp>
+        <preview-image file="oxygen-tiles.png"/>
+        <parameters>
+            <parameter name="webhelp.show.main.page.tiles" value="yes"/>
+            <parameter name="webhelp.show.main.page.toc" value="no"/>
+            <parameter name="webhelp.top.menu.depth" value="3"/>
+            <parameter name="args.figurelink.style" value="NUMTITLE"/>
+            <parameter name="args.tablelink.style" value="NUMBER"/>
+            <parameter name="clean.output" value="yes"/>
+            <parameter name="clean.temp" value="no"/>
+            <parameter name="webhelp.publication.toc.links" value="all"/>
+            <parameter name="webhelp.search.custom.excludes.file" value="params/webhelp.search.custom.excludes.file/search-excludes.txt.txt" type="filePath"/>
+            <parameter name="webhelp.show.child.links" value="yes"/>
+            <parameter name="webhelp.show.topic.toc" value="yes"/>
+        </parameters>
+        <resources>
+            <css file="oxygen.css"/>
+            <css file="notes.css"/>
+            <fileset>
+                <include name="resources/**/*"/>
+                <exclude name="resources/**/*.svn"/>
+                <exclude name="resources/**/*.git"/>
+            </fileset>
+        </resources>
+        <online-preview-url>https://www.oxygenxml.com/samples/DITA-WebHelp-Responsive/tiles/oxygen/</online-preview-url>
+        <tags>
+            <tag type="layout">tiles</tag>
+            <tag type="color">blue</tag>
+            <tag type="color">light</tag>
+        </tags>
+    </webhelp>
+    <pdf>
+        <preview-image file="oxygen.png"/>
+        <tags>
+            <tag type="color">light</tag>
+        </tags>
+        <resources>
+            <css file="oxygen-print.css"/>
+            <css file="notes.css"/>
+        </resources>
+    </pdf>
+</publishing-template>
