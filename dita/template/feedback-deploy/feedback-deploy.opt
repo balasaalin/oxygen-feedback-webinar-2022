@@ -25,6 +25,9 @@
                 <exclude name="resources/**/*.git"/>
             </fileset>
         </resources>
+        <html-fragments>
+            <fragment file="fragments/oxygen-feedback-fragment.xml" placeholder="webhelp.fragment.feedback"/>
+        </html-fragments>
         <tags>
             <tag type="other">webinar</tag>
         </tags>
