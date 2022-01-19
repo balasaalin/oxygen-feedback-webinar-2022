@@ -5,7 +5,7 @@
     <shortdesc/>
     <taskbody>
         <context>
-            <p>Make sure that your phone is turned off.</p>
+            <p id="p_rxq_qbl_hsb">Make sure that your phone is turned off.</p>
         </context>
         <steps>
             <step conref="removingBattery.dita#task_3ml_qm3_rf/firstStep"

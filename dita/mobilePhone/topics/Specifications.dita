@@ -3,18 +3,18 @@
 <topic id="topic_d5p_h3b_fg">
   <title>Brief specifications</title>
   <body>
-    <dl>
+    <dl id="dl_v5q_qbl_hsb">
       <dlentry id="display">
         <dt>Display</dt>
         
         <dd>2.40” screen, 480 x 360 resolution</dd>
       </dlentry>
     </dl>
-    <dl>
+    <dl id="dl_w5q_qbl_hsb">
       <dlentry id="dimensions">
         <dt>Dimensions</dt>
         <dd>
-          <dl>
+          <dl id="dl_x5q_qbl_hsb">
             <dlentry>
               <dt>Height</dt>
               <dd></dd>

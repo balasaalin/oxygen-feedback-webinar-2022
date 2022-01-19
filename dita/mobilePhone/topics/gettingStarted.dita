@@ -4,7 +4,7 @@
   <title>Getting Started</title>
   <shortdesc>Technical details.</shortdesc>
   <body>
-    <p>Welcome to Syncro mobile phone user guide.</p>
-    <p>This user guide is focused on describing features and functionality of your mobile phone.</p>
+    <p id="p_ptq_qbl_hsb">Welcome to Syncro mobile phone user guide.</p>
+    <p id="p_qtq_qbl_hsb">This user guide is focused on describing features and functionality of your mobile phone.</p>
   </body>
 </topic>
