@@ -14,34 +14,8 @@
       <dlentry id="dimensions">
         <dt>Dimensions</dt>
         <dd>
-          <dl id="dl_x5q_qbl_hsb">
-            <dlentry>
-              <dt>Height</dt>
-              <dd></dd>
-              <dd><ph>112.5 mm</ph></dd>
-            </dlentry>
-            <dlentry>
-              <dt>Width</dt>
-              <dd></dd>
-              <dd><ph>61.2 mm</ph></dd>
-            </dlentry>
-            <dlentry>
-              <dt>Thickness</dt>
-              <dd></dd>
-              <dd><ph>14 mm</ph></dd>
-            </dlentry>
-            <dlentry>
-              <dt>Weight</dt>
-              <dd></dd>
-              <dd><ph>120 g</ph></dd>
-            </dlentry>
-            <dlentry>
-              <dt>Volume</dt>
-              <dd></dd>
-              <dd><ph>68 cc</ph></dd>
-            </dlentry>
-          </dl>
-          <!--<table frame="all" rowsep="1" colsep="1" id="table_rmd_qbg_hsb">
+          
+          <table frame="all" rowsep="1" colsep="1" id="table_rmd_qbg_hsb">
             <tgroup cols="5" align="left">
               <colspec colname="c1" colnum="1" colwidth="1*"/>
               <colspec colname="c2" colnum="2" colwidth="1*"/>
@@ -67,7 +41,7 @@
                 </row>
               </tbody>
             </tgroup>
-          </table>-->
+          </table>
         </dd>
       </dlentry>
       <dlentry id="battery">
