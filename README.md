@@ -9,3 +9,8 @@ This webinar will cover the following topics:
  - Feedback moderation
  - User roles and user management (promote/demote users)
  - Oxygen integration - Easily update your content by accessing the comments stream directly in Oxygen
+
+## Other Resources:
+Jenkins Job: https://jenkins-master.sync.ro/view/webinar/job/feedback-webinar-2022/
+
+Slides: https://drive.google.com/drive/folders/14OFMhyoj4TkKOeRsBEpLgAlh6yKWHOGI
